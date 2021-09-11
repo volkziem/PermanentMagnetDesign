@@ -14,23 +14,23 @@ for the details
 ## The description of the MATLAB files:
 
 - **README.md:**
-  this file
+  - this file
 
 - **PM_multipoles.m,**
-  main program to design multipole magnets,
+  - main program to design multipole magnets,
   all plots are copied into a subdirectory named tmp/ 
 
 - **PM_solenoid_axial.m,**
-  main program to design axial solenoids
+  - main program to design axial solenoids
   all plots are copied into a subdirectory named tmp/ 
 
 - **PM_solenoid_radial.m,**
-  main program to design radial solenoids
+  - main program to design radial solenoids
   all plots are copied into a subdirectory named tmp/ 
 
 - **Bsheets.m,**
-  Bout=Bsheets(sheets,r2):
-  returns the field 'Bout(r2)' from the 'sheets'
+  - Bout=Bsheets(sheets,r2):
+  - returns the field 'Bout(r2)' from the 'sheets'
 
 - **draw_sheets.m,**
   draw_sheets(sheets):
