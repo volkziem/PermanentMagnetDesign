@@ -79,3 +79,7 @@ for the details
 - **sheets_translate.m,**
   out=sheets_translate(sheets,dx):
   returns the 'sheets' after translating them by 'dx'.
+
+## Disclaimer
+
+I do not claim that this software serves any purpose. You use it at your own risk. 
