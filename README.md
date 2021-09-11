@@ -3,7 +3,7 @@ Matlab software for designing magnets with permanent magnet cubes. Used in the [
 on that topic (1FA362)](https://ziemann.web.cern.ch/ziemann/teaching/pm21/)
 at Uppsala University.
 
-The theory behind the code is described in two publications. Check them
+The theory behind the code is described in two publications. Check them out
 for the details
 
   - V. Ziemann, Closed-form expressions for the magnetic field of permanent magnets in
