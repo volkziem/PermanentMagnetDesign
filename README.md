@@ -52,13 +52,13 @@ for the details
   - generates an arrow plot on the grid specified by 'gx', 'gy', and 'gz'
 
 - **make_cubez.m**
-  sheets=make_cubez(a,alpha,Br):
-  returns the sheets of a cube with size 'a', aspect ratio 'alpha', and
+  - sheets=make_cubez(a,alpha,Br)
+  - returns the sheets of a cube with size 'a', aspect ratio 'alpha', and
   remanent field 'Br'
 
 - **make_brick.m**
-  sheets=make_brick(a,b,c,Br):
-  returns the sheets of a brick with the specified sides.
+  - sheets=make_brick(a,b,c,Br)
+  - returns the sheets of a brick with the specified sides.
 
 - **make_polygon_hollow.m**
   - sheets=make_polygon_hollow(n,ri,ro,h,Br)
