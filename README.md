@@ -13,7 +13,7 @@ for the details
     beam lines, [arXiv:2106.14676](https://arxiv.org/abs/2106.14676), June 2021.
 
 
-## The description of the MATLAB files:
+## The description of the MATLAB files to handle cubes:
 
 - **README.md**
   - this file
@@ -81,6 +81,15 @@ for the details
 - **sheets_translate.m**
   - out=sheets_translate(sheets,dx)
   - returns the 'sheets' after translating them by 'dx'.
+
+## Matlab files in subdirectory filament/ to handle current filaments
+
+- **field_of_current_filament.m**
+  - generates a plot with field around a single wire.
+  
+- **Bline.m**
+  - B=Bline(I,ra,rb,r2)
+  - returns the field 'B(r2)' at 'r2' created by a line segment from 'ra' to 'rb' that carries the current 'I'.
 
 ## Disclaimer
 
