@@ -91,6 +91,11 @@ for the details
   - B=Bline(I,ra,rb,r2)
   - returns the field 'B(r2)' at 'r2' created by a line segment from 'ra' to 'rb' that carries the current 'I'.
 
+## OpenSCAD files in the subdirectory openscad/
+
+- **Frame.scad**
+  - generates a very simple frame for multipoles
+
 ## Disclaimer
 
 I do not claim that this software serves any purpose. You use it at your own risk. 
