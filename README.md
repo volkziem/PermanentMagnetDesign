@@ -10,7 +10,8 @@ for the details
     three dimensions, [arXiv:2106.04153](https://arxiv.org/abs/2106.04153), June 2021.
 
   - V. Ziemann, Strap-on magnets: a framework for rapid prototyping of magnets and
-    beam lines, [arXiv:2106.14676](https://arxiv.org/abs/2106.14676), June 2021.
+    beam lines, [Instruments 2021 5(4) 36, December 2021](https://doi.org/10.3390/instruments5040036)
+    and [arXiv:2106.14676](https://arxiv.org/abs/2106.14676), June 2021.
 
 
 ## The description of the MATLAB files to handle cubes:
