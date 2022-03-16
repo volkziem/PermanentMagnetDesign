@@ -13,6 +13,9 @@ for the details
     beam lines, [Instruments 2021 5(4) 36, December 2021](https://doi.org/10.3390/instruments5040036)
     and [arXiv:2106.14676](https://arxiv.org/abs/2106.14676), June 2021.
 
+Here is an image of a prmanent-magnet quadrupole with eight cubes
+
+  ![Eight-cube magnet](MM08_m2_w10_o18_view_crop.png)
 
 ## The description of the MATLAB files to handle cubes:
 
